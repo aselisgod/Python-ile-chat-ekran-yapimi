@@ -1,0 +1,3 @@
+Öncelikle " server " ve " client " adında 2 farklı py uzantılı dosya açıyoruz. ( İsimler değişkenlik gösterebilir. Sadece basit bir anlatım için o isimler seçilmiştir. )
+Server.py ve client dosyamız için birer host_adı adı altında host adı belirliyoruz.
+Sonrasında ise bir port belirliyoruz.
